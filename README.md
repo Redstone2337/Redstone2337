@@ -67,7 +67,7 @@
 
 <!-- 代码技能 -->
 
-<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-JAVA-66FFFF?style=flat-square&logo=java" /></p>
+<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-JSON-66FFFF?style=flat-square&logo=json" /> <img src="https://img.shields.io/badge/-JetBrains-oringe?style=flat-square&logo=jetbrains" /></p>
 
 
 
