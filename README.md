@@ -80,6 +80,31 @@
 
 </table>
 
+# 🔴©关于模组的修复™️®️
+<!-- 关于模组的修复 -->
+<div>
+    <span style="color:red">Sodium</span> and its derivative projects(like Embeddium). Need patch(or LTW/Zink). /
+    及其衍生项目。需要修改(或者LTW/Zink)。<br />
+    <span style="color:red">PixelMon(>1.12.2)</span> need to modify its config / 需要修改它的配置<br />
+    <span style="color:red">Valkyrien Skies/Valkyien Warfare</span><br />
+    <span style="color:red">Create</span> on GL4ES Adreno GPU is needed / GL4ES上使用需要Adreno GPU<br />
+    <span style="color:red">Modern UI</span><br />
+    <span style="color:red">IMBlocker</span> useless / 没用<br />
+    <span style="color:red">Draconic Evolution</span> need to modify config / 需要修改它的配置<br />
+    <span style="color:red">Immersive Portals</span><br />
+    <span style="color:red">Yes Steve Model</span> new versions only run on x86_64(linux&windows) /
+    新版本只能在x86_64的windwos&linux时运行<br />
+    <span style="color:red">Controllable/Controlify or other Controller mod</span><br />
+    <span style="color:red">Avaritia(>1.12.2)</span><br />
+    <span style="color:red">Dynamic surrounding</span> rendering errors / 渲染错误<br />
+    <span style="color:red">RandomPatches</span><br />
+    <span style="color:red">WebDisplays/In-game Browser</span><br />
+    <span style="color:red">Physics Mod</span> need to replace physx-jni so lib / 需要替换physx-jni so库<br />
+    <span style="color:red">Vulkan Mod</span> need to replace lwjgl lib / 需要替换lwjgl库<br />
+    <span style="color:red"></span><br />
+</div>
+
+
 ## 📊 GitHub 数据统计
 
 
