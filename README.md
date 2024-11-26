@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。</p>
+<p>&emsp;&emsp;![Typing SVG](https://readme-typing-svg.demolab.com/?lines=嗨，我是Redstone233。热爱模组、整合、资源、软件开发。)</p>
 <p>&emsp;&emsp; 个人官网：<a href="http://flydragons.xtyz.store/assets/images/logo.png" target="_blank"> Redstone233 </a></p>
 <p>&emsp;&emsp;不说永远，在每个瞬间。</p>
 <p>&emsp;&emsp;<strong>A pen Qingyun, full of spring paper. Pick up a beam of light and give it back to the sun at sunset.</strong></p>
@@ -67,7 +67,7 @@
 
 <!-- 代码技能 -->
 
-<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-JSON-66FFFF?style=flat-square&logo=json" /> <img src="https://img.shields.io/badge/-JetBrains-oringe?style=flat-square&logo=jetbrains" /></p>
+<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-JSON-66FFFF?style=flat-square&logo=json" /> <img src="https://img.shields.io/badge/-JetBrains-191970?style=flat-square&logo=jetbrains" /> <img src="https://img.shields.io/badge/-MySQL-87CEEB?style=flat-square&logo=mysql" /> <img src="https://img.shields.io/badge/-phpMyAdmin-00FFFF?style=flat-square&logo=phpmyadmin" /></p>
 
 
 
