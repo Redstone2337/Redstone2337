@@ -84,6 +84,7 @@
 
 ## 🔴©关于直装包中模组的修复™️®️
 <!-- 关于模组的修复 -->
+<picture>
     <div>
         <span style="color:red">Sodium</span> and its derivative projects(like Embeddium). Need patch(or LTW/Zink). /
         及其衍生项目。需要修改(或者LTW/Zink)。<br />
@@ -105,6 +106,8 @@
         <span style="color:red">Vulkan Mod</span> need to replace lwjgl lib / 需要替换lwjgl库<br />
         <span style="color:red"></span><br />
     </div>
+</picture>
+
 
 ## 📊 GitHub 数据统计
 
