@@ -34,7 +34,7 @@
 
 ### 🤺 About Me
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Redstone233.;I+Love+modules,+integration,;and+resources;or+software+development.;嗨，+我是Redstone233。+热爱模组、;整合、+资源、+软件开发。)
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/173752111?v=4" />
 
 <p>&emsp;&emsp;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。</p>
 <p>&emsp;&emsp; 个人官网：<a href="http://flydragons.xtyz.store/assets/images/logo.png" target="_blank"> Redstone233 </a></p>
