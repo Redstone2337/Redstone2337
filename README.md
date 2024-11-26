@@ -63,7 +63,12 @@
 - [豆腐网络工作室](http://tofu.xty.xtyz.store/)   📌 2019-07 —— 2020-02
 
   - 工作岗位：技术顾问
-  - 工作内容：参与网站的维护以及软件的开发
+  - 工作内容：参与网站的维护以及软件的开友
+
+<!-- 代码技能 -->
+
+<p><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Java-66FFFF?style=flat-square&logo=java" /></p>
+
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -116,9 +121,3 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img src="/profile-night-rainbow.svg" />
 </picture>
-
-<!--关于代码技能信息-->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-
