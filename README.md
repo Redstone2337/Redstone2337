@@ -33,10 +33,11 @@
 <tr><td>
 
 ### 🤺 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;![Typing SVG](https://readme-typing-svg.demolab.com/?lines=嗨，我是Redstone233。热爱模组、整合、资源、软件开发。)</p>
+<p>&emsp;&emsp;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。</p>
 <p>&emsp;&emsp; 个人官网：<a href="http://flydragons.xtyz.store/assets/images/logo.png" target="_blank"> Redstone233 </a></p>
 <p>&emsp;&emsp;不说永远，在每个瞬间。</p>
 <p>&emsp;&emsp;<strong>A pen Qingyun, full of spring paper. Pick up a beam of light and give it back to the sun at sunset.</strong></p>
