@@ -33,7 +33,9 @@
 <tr><td>
 
 ### 🤺 About Me
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, this is Redstone 233. Love modules, integration, resources, software development.;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, this is Redstone 233. Love modules, integration, resources, software development.;I also like to develop software.)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines嗨，我是Redstone233。热爱模组、整合、资源、软件开发。=""; )
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
