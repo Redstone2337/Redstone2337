@@ -13,7 +13,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://redstone233.xucop.cn/"><img src="https://img.shields.io/badge/Website-个人网-8c36db" /></a>&emsp;
+    <a href="http://redstone233.smksa.top/"><img src="https://img.shields.io/badge/Website-个人网-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Redstone2337&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
@@ -39,7 +39,7 @@
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/173752111?v=4" />
 
 <p>&emsp;&emsp;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。</p>
-<p>&emsp;&emsp; 个人官网：<a href="http://redstone233.xucop.cn/" target="_blank"> Redstone233 </a></p>
+<p>&emsp;&emsp; 个人官网：<a href="http://redstone233.smksa.top/" target="_blank"> Redstone233 </a></p>
 <p>&emsp;&emsp;不说永远，在每个瞬间。</p>
 <p>&emsp;&emsp;<strong>A pen Qingyun, full of spring paper. Pick up a beam of light and give it back to the sun at sunset.</strong></p>
 
@@ -62,7 +62,7 @@
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Redstone2337/Redstone2337@main/assets/images/Tofu.png" />
 
-- [豆腐网络工作室](http://tofu.xty.xtyz.store/)   📌 2019-07 —— 2020-02
+- [豆腐网络工作室](http://tofu5.smksa.top/)   📌 2019-07 —— 2020-02
 
   - 工作岗位：技术顾问
   - 工作内容：参与网站的维护以及软件的开友
@@ -81,31 +81,6 @@
 
 
 </table>
-
-## 🔴©关于直装包中模组的修复™️®️
-
-<!-- 关于模组的修复 -->
-<div>
-    <span style="color:red">Sodium</span> and its derivative projects(like Embeddium). Need patch(or LTW/Zink). /
-    及其衍生项目。需要修改(或者LTW/Zink)。<br />
-    <span style="color:red">PixelMon(>1.12.2)</span> need to modify its config / 需要修改它的配置<br />
-    <span style="color:red">Valkyrien Skies/Valkyien Warfare</span><br />
-    <span style="color:red">Create</span> on GL4ES Adreno GPU is needed / GL4ES上使用需要Adreno GPU<br />
-    <span style="color:red">Modern UI</span><br />
-    <span style="color:red">IMBlocker</span> useless / 没用<br />
-    <span style="color:red">Draconic Evolution</span> need to modify config / 需要修改它的配置<br />
-    <span style="color:red">Immersive Portals</span><br />
-    <span style="color:red">Yes Steve Model</span> new versions only run on x86_64(linux&windows) /
-    新版本只能在x86_64的windwos&linux时运行<br />
-    <span style="color:red">Controllable/Controlify or other Controller mod</span><br />
-    <span style="color:red">Avaritia(>1.12.2)</span><br />
-    <span style="color:red">Dynamic surrounding</span> rendering errors / 渲染错误<br />
-    <span style="color:red">RandomPatches</span><br />
-    <span style="color:red">WebDisplays/In-game Browser</span><br />
-    <span style="color:red">Physics Mod</span> need to replace physx-jni so lib / 需要替换physx-jni so库<br />
-    <span style="color:red">Vulkan Mod</span> need to replace lwjgl lib / 需要替换lwjgl库<br />
-    <span style="color:red"></span><br />
-</div>
 
 
 
