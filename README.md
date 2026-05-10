@@ -13,7 +13,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://redstone233.smksa.top/"><img src="https://img.shields.io/badge/Website-个人网-8c36db" /></a>&emsp;
+    <a href="https://redstone2337.netlify.app/"><img src="https://img.shields.io/badge/Website-个人网-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Redstone2337&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
@@ -39,7 +39,7 @@
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/173752111?v=4" />
 
 <p>&emsp;&emsp;嗨，我是Redstone233。热爱模组、整合、资源、软件开发。</p>
-<p>&emsp;&emsp; 个人官网：<a href="http://redstone233.smksa.top/" target="_blank"> Redstone233 </a></p>
+<p>&emsp;&emsp; 个人官网：<a href="https://redstone2337.netlify.app/" target="_blank"> Redstone233 </a></p>
 <p>&emsp;&emsp;不说永远，在每个瞬间。</p>
 <p>&emsp;&emsp;<strong>A pen Qingyun, full of spring paper. Pick up a beam of light and give it back to the sun at sunset.</strong></p>
 
@@ -52,13 +52,6 @@
 <tr><td>
 
 ## 🏢 Work Experience
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Redstone2337/Redstone2337@main/assets/images/Feilong.jpg" />
-
-- [飞龙科技有限公司](http://flydragons.xtyz.store/) &emsp; 📌 2020-07 —— 2023-07
-
-  - 工作岗位：公司总裁
-  - 工作内容：参与飞龙科技高新技术开发
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Redstone2337/Redstone2337@main/assets/images/Tofu.png" />
 
